@@ -42,4 +42,3 @@ We use containers, which hold rows, which have columns.
     </div>
 
 Most sites are built on a twelve column grid, but you can choose a different number of columns in the grid config file.
-# hillombo
