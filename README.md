@@ -1,6 +1,4 @@
-# MESH-Starter-Theme
-
-This theme is the starting point for new MESH Wordpress projects.
+# Made By MESH - Level 3: Informer
 
 Tools
 ---------------
